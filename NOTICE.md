@@ -34,4 +34,7 @@ licences and ownership remain with their respective authors; this project's MIT
 licence does not relicense those inputs. Apple firmware, NetBSD archives and
 generated native binaries are not included in this repository.
 
-The Home Assistant screenshot was supplied by the project's owner for this README.
+The Home Assistant screenshot and hardware photo were supplied by the project's
+owner for this README. The photo was converted from HEIC to JPEG, resized, and
+stripped of camera/location metadata; the README preview is cropped and links
+to the full view.

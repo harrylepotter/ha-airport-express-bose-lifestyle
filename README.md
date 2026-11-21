@@ -4,6 +4,10 @@ Give an old **Apple AirPort Express** a second job: controlling a **Bose Lifesty
 
 This project grew out of a working system made entirely from hardware already on hand. No Raspberry Pi, ESP32 or replacement operating system: the AirPort keeps running Apple's NetBSD-based firmware, with a small, specific patch and two native programs.
 
+[![The Bose Lifestyle 25 beside the AirPort Express in the working installation](docs/hardware-setup-preview.jpg)](docs/hardware-setup.jpg)
+
+*The actual setup: Bose Lifestyle 25 and AirPort Express, connected through the existing USB-to-TTL serial adapter. Click the photo for the full view.*
+
 ```mermaid
 flowchart LR
     HA[Home Assistant] <-->|MQTT| MQ[Your MQTT broker]
