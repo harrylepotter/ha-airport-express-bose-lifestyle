@@ -1,0 +1,12 @@
+.local/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.basebinary
+*.raw
+*.tgz
+*.elf
+*.bin
+*.conf
+.env*

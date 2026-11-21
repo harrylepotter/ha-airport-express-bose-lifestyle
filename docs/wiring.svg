@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="410" viewBox="0 0 960 410" role="img" aria-labelledby="title desc">
+<title id="title">PL2303 TTL adapter to Bose SERIAL DATA wiring</title>
+<desc id="desc">Adapter TX connects to the ring, RX to the tip, and ground to the sleeve of a 3.5 millimetre TRS stereo plug. VCC is not connected. The interface must be compatible with Bose 5 volt TTL signalling.</desc>
+<rect width="960" height="410" rx="20" fill="#101827"/>
+<g font-family="system-ui, sans-serif" fill="#e9eef6">
+<text x="36" y="48" font-size="25" font-weight="700">Three wires. One existing serial port.</text>
+<text x="36" y="78" font-size="16" fill="#a7b6ca">3.5 mm TRS stereo plug → Bose SERIAL DATA · 5 V compatible TTL interface</text>
+<rect x="36" y="118" width="230" height="228" rx="12" fill="#1e2a3e" stroke="#52657d"/>
+<text x="56" y="150" font-size="19" font-weight="600">USB-to-TTL adapter</text>
+<text x="58" y="192" font-size="18">TX / TXD</text><text x="58" y="239" font-size="18">RX / RXD</text><text x="58" y="286" font-size="18">GND</text>
+<text x="58" y="325" font-size="15" fill="#ffcb85">VCC: leave unconnected</text>
+<path d="M240 186 H480 V167 H678" fill="none" stroke="#69d5b6" stroke-width="4"/>
+<path d="M240 233 H527 V132 H811 V167" fill="none" stroke="#83b8ff" stroke-width="4"/>
+<path d="M240 280 H430 V215 H576" fill="none" stroke="#c4b5fd" stroke-width="4"/>
+<rect x="550" y="180" width="72" height="62" rx="5" fill="#c4b5fd"/>
+<rect x="629" y="180" width="97" height="62" fill="#69d5b6"/>
+<path d="M733 180 H815 L852 211 L815 242 H733Z" fill="#83b8ff"/>
+<rect x="622" y="180" width="7" height="62" fill="#060b14"/><rect x="726" y="180" width="7" height="62" fill="#060b14"/>
+<path d="M678 167 V180 M811 167 V180 M576 215 H550" stroke="#e9eef6" stroke-width="2"/>
+<text x="551" y="275" font-size="17" fill="#c4b5fd">SLEEVE</text><text x="649" y="275" font-size="17" fill="#69d5b6">RING</text><text x="780" y="275" font-size="17" fill="#83b8ff">TIP</text>
+<text x="550" y="299" font-size="14">Ground</text><text x="637" y="299" font-size="14">Bose RX</text><text x="772" y="299" font-size="14">Bose TX</text>
+<text x="36" y="382" font-size="16" fill="#a7b6ca">Verify terminal continuity and adapter voltage ratings. Connect with Bose power and USB disconnected.</text>
+</g></svg>
